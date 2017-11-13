@@ -10,4 +10,3 @@ alert('Hello, ' + name);
 console.log('Hello, ' + name);
 
 //comment 3
-var firstSentence = 'I like a song that is called "Only you".'
