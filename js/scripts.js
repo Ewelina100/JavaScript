@@ -9,4 +9,11 @@ alert('Hello, ' + name);
 // comment 2
 console.log('Hello, ' + name);
 
-//comment 3
+//zadanie 8.5
+
+var a = 5
+var h = 4
+var areaOfTriangle = a*h/2
+console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangleArea);
+
+
